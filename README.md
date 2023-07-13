@@ -61,7 +61,7 @@ Git version control is used for this project. The repository was initialized wit
 
 ## Website Link
 
-The application is deployed on Vercel. You can access it by visiting [Task Management Application](https://vercel.com/ritabrata-paul/task-management-application).
+The application is deployed on Vercel. You can access it by visiting [Task Management Application](https://task-management-application-ritabrata.vercel.app/).
 
 ## Repository Link
 
